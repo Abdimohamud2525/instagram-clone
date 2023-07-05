@@ -1,5 +1,5 @@
 //select ansplash apiKeys
-const accessKey = 'aS92sxM8f7dHyscUfDQp_PZsppetmji-9h1YBtLvLoA';
+const accessKey = ''
 
 // select elemenst
 const searchElemen = document.querySelector("#searchElement");
